@@ -32,3 +32,5 @@ hello world!
 ![ИИ](https://forpost-sz.ru/sites/default/files/styles/wide169/public/doc/2021/06/16/brandon-carsons-article_fredricksonlearning.com__0.jpg?h=f51ee74d&itok=UXefl7Um)
 
 Еще раз разрешили конфликт(применили оба изменения)
+
+Хочу красивую ветку
